@@ -1,8 +1,10 @@
 # free-R-resources
 
-Free Resources and Links for R (Legitimate only)
-(Legitimate) Free resources: 
-CRAN
+##Free Resources and Links for R (Legitimate only)
+###(Legitimate) Free resources: 
+
+**CRAN**
+
 This is where you get your (official) packages from and has official docs
 https://cran.r-project.org/
 
