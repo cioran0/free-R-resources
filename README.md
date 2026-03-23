@@ -1,6 +1,6 @@
 # free-R-resources
 
-## Free Resources and Links for R (Legitimate only)
+## Free Resources and Links for R in brief (Legitimate only)
 
 💯Official Docs/Packages
 1. **CRAN** This is where you get your (official) packages from and has official docs
