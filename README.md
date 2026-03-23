@@ -2,9 +2,8 @@
 
 ## Free Resources and Links for R (Legitimate only)
 
-**CRAN**
-
-This is where you get your (official) packages from and has official docs
+Official Docs/Packages
+1. **CRAN** This is where you get your (official) packages from and has official docs
 https://cran.r-project.org/
 
 :pencil: Intro
