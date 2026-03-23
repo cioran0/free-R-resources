@@ -1,7 +1,7 @@
 # free-R-resources
 
-##Free Resources and Links for R (Legitimate only)
-###(Legitimate) Free resources: 
+## Free Resources and Links for R (Legitimate only)
+### (Legitimate) Free resources: 
 
 **CRAN**
 
