@@ -24,7 +24,10 @@ https://cran.r-project.org/
 
 💰Finance
 1. **Tidy Finance with R** https://www.tidy-finance.org/r/ N.B. Some of the datasets may be unusable, inaccessible or prohibitively expensive.
- 
+
+----
+*Not R but very much related*
+
 ➕LaTeX (math-ness for publishing articles)
 1. CTAN <https://www.ctan.org/> has a lot of free books.
 2. LaTeX Primer https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/ (pdf is linked on his page)  
