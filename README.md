@@ -3,9 +3,9 @@
 ## Free Resources and Links for R in brief (Legitimate only)
 
 💯Official Docs & Packages
-1. 💻**CRAN** This is where you get your (official) packages from and has official docs
+1. **CRAN** This is where you get your (official) packages from and has official docs
 https://cran.r-project.org/
-2. 📦**R Packages (2e)** Book on how to *make* those R packages you downloaded from CRAN https://r-pkgs.org/
+2. **R Packages (2e)** Book on how to *make* those R packages you downloaded from CRAN https://r-pkgs.org/
 
 :pencil: Intro
 1. **R for Data Science** (2e)- https://r4ds.hadley.nz/ 
